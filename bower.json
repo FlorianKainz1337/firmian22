@@ -1,0 +1,16 @@
+{
+  "name": "firmian22",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "latest",
+    "jquery": "latest",
+    "animate.css": "latest",
+    "WOW": "latest",
+    "fontawesome": "latest",
+    "font-awesome-animation": "latest",
+    "jquery-backstretch": "latest",
+    "jquery-easing-original": "latest",
+    "blueimp-gallery": "latest"
+  },
+  "devDependencies": {}
+}
